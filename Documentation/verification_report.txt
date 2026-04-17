@@ -1,0 +1,12 @@
+DATA CLEANING VERIFICATION REPORT
+================================================================================
+
+Generated: 2026-03-16 21:14:05
+File checked: data/processed/spain_merged_final.csv
+
+Tests passed: 9/9
+
+DATASET SUMMARY:
+  Rows: 35,056
+  Columns: 32
+  Date range: 2014-12-31 23:00:00+00:00 to 2018-12-31 22:00:00+00:00
